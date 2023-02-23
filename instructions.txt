@@ -1,0 +1,6 @@
+The objective of the game is simple: jump over the cactus and try not to hit one.
+
+SPACE- jump
+i - invincability
+o - slow down/pause
+p - speed up
